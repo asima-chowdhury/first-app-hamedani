@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-import {Teacher} from './teacher';
+import Teacher, {promote} from './teacher';
 
 const element = <h1>Hello World!</h1>;
 // console.log(element);
